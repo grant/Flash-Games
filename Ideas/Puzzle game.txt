@@ -1,0 +1,10 @@
+GDD
+
+Title: Four Elements
+Author: Grant Timmerman
+Platform: Adobe Flash
+Game type: Puzzle
+
+Overview: The user must unlock the four emblems to get to the final boss. The four elements are very themed of water, air, fire, and ground.
+
+Each element has a puzzle the user must solve.

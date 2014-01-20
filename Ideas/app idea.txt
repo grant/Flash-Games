@@ -1,0 +1,2 @@
+app idea:
+keep track of books read and look at books friends read

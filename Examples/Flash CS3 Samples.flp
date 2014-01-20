@@ -1,0 +1,82 @@
+﻿<flash_project name="Flash CS3 Samples" version="1">
+    <project_folder name="1_Drawing" expanded="true">
+        <project_folder name="code" expanded="false">
+            <project_file path="Drawing/code/Drawing1.as" filetype="as" />
+            <project_file path="Drawing/code/Drawing2.as" filetype="as" />
+            <project_file path="Drawing/code/Drawing3.as" filetype="as" />
+            <project_file path="Drawing/code/Drawing4.as" filetype="as" />
+        </project_folder>
+        <project_file path="Drawing/1_coordinates.fla" filetype="fla" profile="" />
+        <project_file path="Drawing/2_timelines.fla" filetype="fla" profile="" />
+        <project_file path="Drawing/3_graphics.fla" filetype="fla" profile="" />
+        <project_file path="Drawing/4_color.fla" filetype="fla" profile="" />
+    </project_folder>
+    <project_folder name="2_Media" expanded="true">
+        <project_folder name="code" expanded="false">
+            <project_folder name=" soundclasses" expanded="false">
+                <project_file path="Media/code/soundclasses/CustomSoundEvent.as" filetype="as" />
+                <project_file path="Media/code/soundclasses/MasterChannel.as" filetype="as" />
+                <project_file path="Media/code/soundclasses/TrackChannel.as" filetype="as" />
+            </project_folder>
+            <project_file path="Media/code/Media1.as" filetype="as" />
+            <project_file path="Media/code/Media2.as" filetype="as" />
+            <project_file path="Media/code/Media3.as" filetype="as" />
+            <project_file path="Media/code/Media4.as" filetype="as" />
+            <project_file path="Media/code/Media5.as" filetype="as" />
+        </project_folder>
+        <project_file path="Media/1_dynamictext.fla" filetype="fla" profile="" />
+        <project_file path="Media/2_imageloading.fla" filetype="fla" profile="" />
+        <project_file path="Media/3_imagemasking.fla" filetype="fla" profile="" />
+        <project_file path="Media/4_soundloading.fla" filetype="fla" profile="" />
+        <project_file path="Media/5_soundlmixing.fla" filetype="fla" profile="" />
+    </project_folder>
+    <project_folder name="4_Time" expanded="true">
+        <project_folder name="code" expanded="false">
+            <project_file path="Time/code/Time1.as" filetype="as" />
+            <project_file path="Time/code/Time2.as" filetype="as" />
+        </project_folder>
+        <project_file path="Time/1_timer.fla" filetype="fla" profile="" />
+        <project_file path="Time/2_clock.fla" filetype="fla" profile="" />
+    </project_folder>
+    <project_folder name="3_Components" expanded="true">
+        <project_folder name="code" expanded="false">
+            <project_file path="Components/code/Components1.as" filetype="as" />
+        </project_folder>
+        <project_file path="Components/1_video.fla" filetype="fla" profile="" />
+    </project_folder>
+    <project_folder name="5_Interactivity" expanded="true">
+        <project_folder name="code" expanded="false">
+            <project_file path="Interactivity/code/Interactivity1.as" filetype="as" />
+            <project_file path="Interactivity/code/Interactivity2.as" filetype="as" />
+            <project_file path="Interactivity/code/Interactivity3.as" filetype="as" />
+            <project_file path="Interactivity/code/Interactivity4.as" filetype="as" />
+            <project_file path="Interactivity/code/Interactivity5.as" filetype="as" />
+            <project_file path="Interactivity/code/Interactivity6.as" filetype="as" />
+            <project_file path="Interactivity/code/Interactivity7.as" filetype="as" />
+        </project_folder>
+        <project_file path="Interactivity/1_buttons.fla" filetype="fla" profile="" />
+        <project_file path="Interactivity/2_sliders.fla" filetype="fla" profile="" />
+        <project_file path="Interactivity/3_joystick.fla" filetype="fla" profile="" />
+        <project_file path="Interactivity/4_keyboard.fla" filetype="fla" profile="" />
+        <project_file path="Interactivity/5_click.fla" filetype="fla" profile="" />
+        <project_file path="Interactivity/6_thrust.fla" filetype="fla" profile="" />
+        <project_file path="Interactivity/7_scrolling.fla" filetype="fla" profile="" />
+    </project_folder>
+    <project_folder name="6_Games" expanded="true">
+        <project_folder name="code" expanded="false">
+            <project_folder name="amoebaclasses" expanded="false">
+                <project_file path="Games/code/amoebaclasses/Amoeba.as" filetype="as" />
+                <project_file path="Games/code/amoebaclasses/Glob.as" filetype="as" />
+                <project_file path="Games/code/amoebaclasses/GuidedCell.as" filetype="as" />
+                <project_file path="Games/code/amoebaclasses/Paramecium.as" filetype="as" />
+                <project_file path="Games/code/amoebaclasses/Shot.as" filetype="as" />
+                <project_file path="./Games/code/amoebaclasses/InteractiveLayer.as" filetype="as" />
+                <project_file path="./Games/code/amoebaclasses/Ship.as" filetype="as" />
+            </project_folder>
+            <project_file path="Games/code/Game1.as" filetype="as" />
+            <project_file path="Games/code/Game2.as" filetype="as" />
+        </project_folder>
+        <project_file path="Games/1_maze.fla" filetype="fla" profile="" />
+        <project_file path="Games/2_amoebas.fla" filetype="fla" profile="" />
+    </project_folder>
+</flash_project>

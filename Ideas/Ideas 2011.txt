@@ -1,0 +1,34 @@
+Essay helper game:
+- replacement vocab
+- grammar list
+- sentences
+
+Game idea:
+SF Campus
+Teachers, Students, profiles, messages
+
+Vocab helper:
+-Create sentences for words
+-Define words
+-Draw picture for words with sentence?
+http://www.majortests.com/word-focus/
+
+Tower Game:
+-Background color changes
+-Have a story
+-Butterfly is storyteller
+-1st level is a tutorial
+-online highscore
+-tower starts on ground and rises above mountains, above clouds, above stars, above moon, above planets, into deep space
+
+Video chat website:
+-Ask questions through videos
+-Post replies through videos
+-Get opinions about life, love, sex, debates through this website
+
+Project ideas:
+- Video recording camera, view multiple videos at once
+- Website Chat room
+
+Geometry platformer:
+- Tile game bounce simple colors share and make levels

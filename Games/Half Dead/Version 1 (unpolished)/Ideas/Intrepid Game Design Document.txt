@@ -1,0 +1,92 @@
+Game Design Document
+
+Versions:
+
+1/8/2010:Created Document
+
+
+Game Title: Intrepid
+
+By: Grant Timmerman
+
+1 Concept 
+
+1.1 Basic Concept
+1.2 High Concept
+
+2 Design
+
+2.1 Interactive Design
+2.2 Interface (Elements and controls)
+2.3 Perspective
+2.4 Interactive Structure (Chapters, levels, ect.)
+2.5 Gameplay Type(Action, speed, style, ect.)
+2.6 Difficulty
+2.7 Learning Curve
+2.8 Length
+
+3 Story
+
+3.1 Story Plot
+3.2 Genre
+3.3 Tone
+3.4 Centralized Themes
+3.5 Is the story linear?
+3.6 Goal (And why)
+3.7 NPC's
+
+4 Gameplay
+
+4.1 Objective of Game
+4.2 Typical Seccion
+4.3 Missions
+4.4 Maps
+4.5 Characters
+4.6 Enemies
+4.7 Sound Design
+
+5 Market
+
+5.1 Target Audience
+5.2 Expectation of Audience
+5.3 What Makes this Game Unique
+5.4 Do's and Dont's
+5.5 Publishing Rubric
+
+--------------------------------
+
+1 Concept
+
+1.1 Basic Concept
+
+	
+
+1.2 High Concept
+
+	
+
+2 Design
+
+2.1
+
+
+Ideas:
+Smoke Effect
+Electric wires of different colors
+Japanese Hair
+Rain Effect
+Trench Coat
+Cherry Blossom
+Panning Sound
+Blood
+sweat
+Bandages
+Scars
+Blushing 2 Ovals
+Panting: decrease body hight and increase it, don't distort hair.
+http://en.wikipedia.org/wiki/Face_fault             bottom
+
+Lucky Star
+
+Gameplay:
+Follow someone to their hideout without being caught.

@@ -1,0 +1,22 @@
+Author: Grant Timmerman
+Date: 1/16/2012
+
+Code style guide:
+-All code documents are in packages
+
+-Imports are divided in two sections; 1) flash imports 2) internal project imports
+-Imports are in alphabetical order
+
+-Constructor is blank
+
+-All properties are defaulted, non-null
+-All properties don't have private or public, they just start like "var blah:String;"
+-All properties that should, have getters and setters
+
+-Methods are grouped together by function
+-Method groups are separated by the following markup
+////
+//Group_name
+////
+
+
