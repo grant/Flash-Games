@@ -1,0 +1,46 @@
+GDD
+Grant Timmerman
+Date: 6/6/11
+Title: The Four Elements
+Development time: 1 week
+Summary: Marble puzzle games. 4 Marble puzzles. Hop marbles over each other to reduce the marbles to one. Unlock different songs and compare highscores.
+
+Structure:
+-Title screen:
+  -"The Four Elements" Cool text. (Find a consistant style)
+  -Four icons of earth, water, wind, and fire.
+  -4 seconds max
+
+-Earth puzzle opening:
+  -"Earth" (White, same font)
+  -Earth icon
+  
+-Earth puzzle:
+  -When the user gets at least a score of 3, unlock the next puzzle
+-Water puzzle opening
+-Water puzzle
+-Wind puzzle opening
+-Wind puzzle
+-Fire puzzle opening
+-Fire puzzle
+-Win screen:
+  - Title screen background
+  - Maybe little story
+  - Challenge to get 1 marble left on all puzzles
+
+Puzzle HUD:
+  -Marble puzzle bottom middle
+  -Marble storage (marbles hopped over) top right
+  -Marble counter top right
+  -Puzzle selection wheel top middle
+  -Highscore list top left
+  -Restart button bottom right
+  -Music and unlocked music bottom left
+
+Remember:
+  -Sound effects
+  -Get something for winning the game
+  -Four emblem icons an the bottom right
+  -Undo button
+  -High scores on kongregate only.
+  -Shared Object
